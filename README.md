@@ -6,6 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoid workflow loops on GitHub Actions when committing to a protected branch.](https://blog.shounakmulay.dev/avoid-workflow-loops-on-github-actions-when-committing-to-a-protected-branch)
+- [[Part 2] Testing Coroutines and Kotlin Flows](https://blog.shounakmulay.dev/part-2-testing-coroutines-and-kotlin-flows)
+- [[Part 1] Testing Coroutines and Kotlin Flows](https://blog.shounakmulay.dev/part-1-testing-coroutines-and-kotlin-flows)
+- [Architecture patterns in Flutter &lpar;BLoC vs Provider&rpar;](https://blog.shounakmulay.dev/architecture-patterns-in-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
