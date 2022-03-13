@@ -2,10 +2,9 @@
 
 <h4 align="center">Mobile fullstack developer, leading teams of Android and Flutter Developers.</h4>
 
-
 - 🏢 Currently working at [Wednesday Solutions](https://www.wednesday.is/)
 
-- 👨‍💻 All of my projects are available at [github.com/shounakmulay](https://github.com/shounakmulay). Contirbuting to projects on [Wednesday Github](https://github.com/wednesday-solutions)
+- :octocat: All of my projects are available at [github.com/shounakmulay](https://github.com/shounakmulay). Contirbuting to projects on [Wednesday Github](https://github.com/wednesday-solutions)
 
 - 📝 I write articles on [blog.shounakmulay.dev](https://blog.shounakmulay.dev)
 
