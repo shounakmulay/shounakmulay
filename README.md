@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shounak</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shounakmulay](https://github.com/shounakmulay)
+<h4 align="center">Mobile fullstack developer, leading teams of Android and Flutter Developers.</h4>
 
-- 📝 I regularly write articles on [blog.shounakmulay.dev](blog.shounakmulay.dev)
+
+- 🏢 Currently working at [Wednesday Solutions](https://www.wednesday.is/)
+
+- 👨‍💻 All of my projects are available at [github.com/shounakmulay](https://github.com/shounakmulay). Contirbuting to projects on [Wednesday Github](https://github.com/wednesday-solutions)
+
+- 📝 I write articles on [blog.shounakmulay.dev](https://blog.shounakmulay.dev)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
