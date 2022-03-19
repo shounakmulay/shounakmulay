@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shounak</h1>
+<h1 align="center">Hi, I'm Shounak</h1>
 
 <h4 align="center">Mobile fullstack developer, leading teams of Android and Flutter Developers.</h4>
 
