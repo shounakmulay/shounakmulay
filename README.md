@@ -34,19 +34,13 @@ I also have broader experience across React Native and Flutter, and regularly wo
 
 ### DevPulse
 
-> Kotlin Multiplatform developer-content reader built around production-grade mobile architecture.
+> A Kotlin Multiplatform productivity workspace for developers.
 
-DevPulse is an ongoing KMP project exploring:
+Designed to bring together technical content, notes, activity, search, and other day-to-day developer tools in a local-first, cross-platform application.
 
-- shared Android/iOS domain and data layers
-- offline-first persistence
-- RSS ingestion and parsing
-- paging, filtering, and stable ordering
-- background synchronization
-- Compose Multiplatform
-- platform-specific Android and iOS integrations
+The current work is focused on content ingestion, persistence, search, paging, synchronization, and the architectural foundations needed to expand beyond feeds into a broader developer workspace.
 
-**Status:** Active development
+**Status:** Early Active development
 
 [View DevPulse →](https://github.com/shounakmulay/dev-pulse)
 
